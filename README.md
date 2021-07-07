@@ -1,5 +1,5 @@
 # SampleProjectOfPHPWithMySQL
-This is an E-Commerce site created using PHP and MySQL for semester project. 
+This is an E-Commerce site is developed using PHP and MySQL for semester project. 
 In this project CSS is only used for alignemet of elements, styles are not applied because main focus of work was to create dynamic site
 using PHP, not front-end designing, but it will be improved in next version.
 There are bugs in it which were seen during testing. 
