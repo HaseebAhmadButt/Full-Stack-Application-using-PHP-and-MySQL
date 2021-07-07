@@ -1,0 +1,64 @@
+#form1 {
+
+background-color: rgb(233, 181, 119);
+height: 400px;
+border-radius: 10px;
+
+}
+
+
+
+#mainheader {
+
+
+  background-color: rgb(122, 171, 211);
+  color: rgb(64, 64, 121);
+
+  text-align: center;
+
+  height: 150px;
+}
+
+
+#lname {
+
+ text-align: initial;
+ height: 80px;
+width: 100%;
+background-color: rgb(202, 196, 196);
+border: none;
+border-radius: 8px;
+}
+
+#title {
+
+height: 30px;
+background-color: rgb(202, 196, 196);
+border: none;
+border-radius: 8px;
+width: 80%;
+}
+
+#labe {
+
+ color: black;
+
+ width: 100%;
+font-size: 28px;
+
+}
+
+
+#sub {
+
+height: 30px;
+text-decoration:dotted;
+}
+
+
+img {
+
+ width: 100%;
+ border-radius: 10px;
+
+}

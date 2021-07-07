@@ -1,0 +1,30 @@
+table{
+  text-align: center;
+}
+.main_ifo{
+  padding-left: 2.5%;
+}
+#data{
+  border: 0.5px solid gray;
+  font-style: italic;
+  font-variant: small-caps;
+  font-weight: bold;
+}
+.td{
+  border-bottom: 2px solid black;
+  border-collapse: collapse;
+  padding: 2%;
+}
+#cart{
+  /* border-radius: 100%; */
+  text-align: center;
+  font-weight: bold;
+  font-size: 25px;
+}
+.bold{
+  font-weight: bold;
+}
+#submit{
+  width: 25%;
+  height: 30px
+}

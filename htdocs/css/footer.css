@@ -1,0 +1,31 @@
+h3{
+  padding-left: 40px;
+  text-align: center;
+  color: black;
+  font-weight: bolder;
+  font-style: italic;
+  font-family: Times New Roman;
+}
+p{
+  text-align: center;
+  font-size: 110%;
+  font-weight: bold;
+  color: #3F4040;
+}
+.inner{
+  text-align: center;
+  padding-left: 50px;
+  padding-bottom: 7.1%;
+}
+.change_footer{
+  background-color: #F4F5F9;
+}
+#contact_us{
+  border-bottom: 2px solid #3F4040;
+}
+.message{
+  padding-bottom: 5.6%;
+}
+.contact{
+    border-bottom: 2px solid #3F4040;
+}

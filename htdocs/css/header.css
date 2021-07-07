@@ -1,0 +1,76 @@
+#header{
+  background-color: gray;
+  text-align: center;
+}
+h1{
+   display: inline-block;
+  margin-left: 10px;
+  text-align: center;
+  color: #3F4040;
+}
+.main_ifo{
+  margin-top: 3%;
+  text-align: center;
+  font-size: 130%;
+}
+#search{
+  text-align: center;
+  background-color: #F0F5F9;
+}
+#categories{
+list-style: none;
+text-align: center;
+}
+#main_category{
+  margin-left: 40px;
+  font-size: 25px;
+}
+a{
+  text-decoration: none;
+  color: #3F4040;
+  font-weight: bold;
+}
+li{
+  padding: 2.5%;
+}
+
+
+
+
+
+
+
+/* }
+#list{
+  margin-left: 40%;
+  list-style-type: none;
+  color: #79BD9A;
+}
+#input{
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  height: 30px;
+  width: 250px;
+}
+#cart, #sign,#search, #input{
+  float: right;
+}
+#input, #search{
+  height: 33px;
+  margin-top: 28px;
+}
+#search{
+  height: 32px;
+}
+nav{
+  background-color:#E77E4D;
+  height: 5%;
+}
+a {
+  color:#79BD9A;
+  text-decoration: none;
+  margin-top: 15px;
+  margin: 15px;
+  padding: 2.5%;
+} */

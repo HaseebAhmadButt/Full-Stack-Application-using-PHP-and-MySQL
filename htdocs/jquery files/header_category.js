@@ -1,0 +1,11 @@
+$(function(){
+  $("#categories").slideUp();
+  $("#main_category").mouseenter(function(){
+    $("#categories").slideDown('500');
+  });
+  $("#main_category").mouseleave(function(){
+    $("#categories").mouseleave(function(){
+      $("#categories").slideUp('500');
+    });
+  });
+});

@@ -1,0 +1,21 @@
+#Box {
+background-color:goldenrod;
+text-align: center;
+font-size: 24px;
+color:white;
+font-weight: bold;
+}
+
+#Box1 {
+
+background-color:ghostwhite;
+text-align: center;
+font-size: 20px;
+color: #3F4040;
+font-weight: bold;
+}
+
+#gap{
+    height: 10px;
+     visibility: hidden;
+}
