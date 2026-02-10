@@ -136,13 +136,3 @@ Main tables in `prjectdatabase`:
 The SQL dump defines indexes and foreign keys for several of these relations.
 
 ---
-
-## 6) Notable implementation characteristics
-
-- Inline SQL and mixed PHP/HTML in nearly every page.
-- Minimal separation of concerns (no service/repository layers).
-- Frequent reuse of header/footer markup by copy/paste rather than shared includes.
-- Uses Windows-style relative paths (`..\..\`) throughout.
-- Database connection is opened once by include and often `mysqli_close()` is called multiple times in the same request.
-
----
