@@ -163,14 +163,3 @@ The SQL dump defines indexes and foreign keys for several of these relations.
    - Cart and order flows are spread across GET endpoints with side effects.
 
 ---
-
-## 8) If you want to modernize this codebase
-
-A pragmatic path:
-
-1. Add a real entry page/router and centralize includes (header/footer/layout).
-2. Move DB access to reusable functions/classes and switch to prepared statements.
-3. Hash passwords with `password_hash()` + `password_verify()`.
-4. Convert side-effect GET routes to POST-only actions.
-5. Add explicit auth guards and redirects for customer/admin pages.
-6. Normalize assets and paths, then introduce environment-based DB config.
